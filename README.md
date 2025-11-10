@@ -260,4 +260,4 @@ For issues, questions, or suggestions, please create an issue in the project rep
 
 ---
 
-Built with ❤️ using Next.js 14, TypeScript, and Tailwind CSS
+Built using Next.js 14, TypeScript, and Tailwind CSS
